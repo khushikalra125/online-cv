@@ -133,7 +133,7 @@ certifications:
         - name: Qiskit Global Summer School 2023- Theory to Implementation
  
           start: 2023
-          end:  
+          end: 2023 
           organization: IBM Quantum
           credentialid:  
           credentialurl: https://qiskit.org/events/summer-school-2023/

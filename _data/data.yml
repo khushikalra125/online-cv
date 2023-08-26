@@ -130,8 +130,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Qiskit Global Summer School 2023- Theory to
-Implementation
+        - name: Qiskit Global Summer School 2023- Theory to Implementation
  
           start: 2023
           end:  

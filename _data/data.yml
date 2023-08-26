@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name:  Khushi Kalra
     tagline: Full Stack Developer
-    avatar:    #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: IMG-20221211-WA0026~2.jpg   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: khushikalra125@gmail.com
@@ -18,7 +18,7 @@ sidebar:
     timezone:  India/IST
     citizenship: Indian 
     website: blog.webjeda.com #do not add http://
-    linkedin:   
+    linkedin: khushi-kalra  
     xing:  
     github:  Khushikalra125
     telegram:  # add your nickname without '@' sign
@@ -57,12 +57,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Physics undergraduate and a research scholar with experience in quantum computing technology and 
+       cutting-edge Experimental research in EXAFS spectroscopy of synchrotron radiation with a passion 
+       in quantum physics and cosmology.
 education:
     title: Education
     info:
@@ -79,7 +76,7 @@ education:
             - Bullet point
       - degree: BSc Honours in Physics
         university:  Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore
-        time: 2021 - 2024
+        time: 2021 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,10 +87,10 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Research Experiences
     info:
       - role: Lead Developer
-        time: 2015 - Present
+        time: Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -133,13 +130,15 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Qiskit Global Summer School 2023: Theory to
+Implementation
+ 
+          start: 2023
+          end:  
+          organization: IBM Quantum
+          credentialid:  
+          credentialurl: https://qiskit.org/events/summer-school-2023/
+          credentialname: IBM Quantum 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -154,13 +153,14 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Introduction to Quantum Computing Course
+ 
+          start: 2020
+          end: 2021
+          organization: The Coding School (qubitxqubit)
+          credentialid:  
+          credentialurl: https://www.qubitbyqubit.org/
+          credentialname: QubitxQubit
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
